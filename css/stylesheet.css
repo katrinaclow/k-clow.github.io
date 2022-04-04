@@ -10,3 +10,17 @@
 --manatee: #918aa4;
 --blackcurrant: #382a41;
  */
+
+ body {
+     background-color: #918aa4;
+ }
+ h1 {
+     text-align: center;
+     font-family: monospace, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .centre {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: auto;
+  }
