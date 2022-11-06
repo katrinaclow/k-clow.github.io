@@ -75,7 +75,7 @@ img {
 }
 
 .logo-img img {
-    transition: 1s ease;
+    transition: all 1s ease;
 }
 
 .logo-img:hover {
